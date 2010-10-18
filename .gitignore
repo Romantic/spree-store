@@ -1,0 +1,7 @@
+.bundle
+.rake_tasks~
+db/*.sqlite3*
+log/*.log
+tmp/**/*
+public/assets/**/*
+
